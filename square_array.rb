@@ -1,3 +1,5 @@
+array = [4, 8, 12]
+
 def square_array(array)
   new_array = []
   array.each do |number| 
