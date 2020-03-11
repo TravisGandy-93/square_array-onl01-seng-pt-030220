@@ -1,6 +1,7 @@
 
 
 def square_array(array)
+  array = []
   new_array = []
   array.each do |number| 
     square == number**2
